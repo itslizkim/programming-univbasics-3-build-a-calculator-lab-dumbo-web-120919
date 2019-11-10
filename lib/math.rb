@@ -19,10 +19,11 @@ return product
 end
 
 def modulo(num1, num2)
-
+remainder= num1 % num2
+return remainder
 end
 
 def square_root(num)
 math.sqrt(num)
-return 
+return
 end
