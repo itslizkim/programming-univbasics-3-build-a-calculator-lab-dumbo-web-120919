@@ -24,6 +24,5 @@ return remainder
 end
 
 def square_root(num)
-math.sqrt(num)
-return
+return math.sqrt(num)
 end
